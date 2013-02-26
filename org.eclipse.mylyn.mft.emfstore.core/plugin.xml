@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin>
+	<extension point="org.eclipse.mylyn.context.core.bridges">
+         <structureBridge
+               class="org.eclipse.mylyn.mft.emfstore.core.EMFStoreDomainBridge"
+               name="EMFStore Context bridge"
+               parentContentType="resource">
+         </structureBridge>
+      </extension>
+</plugin>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EMFStore Tests
+Bundle-SymbolicName: org.eclipse.mylyn.mft.emfstore.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.mylyn.mft.sdk.util,
+ org.eclipse.mylyn.context.sdk.util;bundle-version="3.9.0",
+ org.junit;bundle-version="4.10.0",
+ org.eclipse.emf.emfstore.client;bundle-version="0.9.3",
+ org.eclipse.mylyn.mft.emfstore.core;bundle-version="1.0.0",
+ org.eclipse.mylyn.mft.emf.core;bundle-version="0.9.1"

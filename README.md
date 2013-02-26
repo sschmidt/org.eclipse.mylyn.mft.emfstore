@@ -1,4 +1,4 @@
 org.eclipse.mylyn.mft.emfstore
 ==============================
 
-An Mylyn Context Bridge for EMFStore managed objects and ECP Editors
+Mylyn Context Bridges for EMFStore objects and ECP Editors
